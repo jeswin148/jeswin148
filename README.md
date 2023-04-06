@@ -1,13 +1,13 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50px" height="50px" alt="hi">  I'm Benedict Xavier</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50px" height="50px" alt="hi">  Akarsh K R</h1>
 <h3 align="center">FULL stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 	
 
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/b3n3dict?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/Aakarshkr?tab=repositories)
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **benedict.xavier.e@gmail.com**
+- 📫 How to reach me **akarshkr88@gmail.com**
 
  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="200px" align="right"/>
 
@@ -54,11 +54,11 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 
-<a align="left" href="mailto:benedict.xavier.e@gmail.com"><img src="https://img.shields.io/badge/-benedict.xavier.e@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a align="right" href="https://twitter.com/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="khushboogoel01" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/benedict-xavier-177512141/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="khushboogoel01" height="40" width="40" /></a>
-<a href="https://www.instagram.com/ben_xav_/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" alt="_khushboo.goel" height="40" width="40" /></a>
-<a href="https://www.facebook.com/benedict.xavier.3/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" alt="_khushboo.goel" height="40" width="40" /></a>
-<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a>
+<a align="left" href="mailto:akarshkr88@gmail.com"><img src="https://img.shields.io/badge/-benedict.xavier.e@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a align="right" href="https://twitter.com/akarshkr88" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="khushboogoel01" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/akarsh-k-r-0012ab190/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="khushboogoel01" height="40" width="40" /></a>
+<a href="https://www.instagram.com/aakarshkr/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" alt="_khushboo.goel" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" alt="_khushboo.goel" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCb5bGq3ik2InzsQU9ABWjpA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a>
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=b3n3dict'></p>		

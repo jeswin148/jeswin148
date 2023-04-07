@@ -1,13 +1,13 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50px" height="50px" alt="hi">  Akarsh K R</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50px" height="50px" alt="hi">  Jeswin Jeo Thomas</h1>
 <h3 align="center">FULL stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 	
 
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/Aakarshkr?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/jeswin148)
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **akarshkr88@gmail.com**
+- 📫 How to reach me **jeswin148@gamil.com**
 
  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="200px" align="right"/>
 
